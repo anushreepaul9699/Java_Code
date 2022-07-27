@@ -12,7 +12,7 @@ public class PascalTriangle
 
         for(int i=0; i<row; i++)
         {
-            for(int space=row; space>i; space--)
+            for(int space=1; space<=row-i; space++)
                 System.out.print(" ");
             num=1;
             for(int j=0; j<=i; j++)
