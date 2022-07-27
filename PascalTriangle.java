@@ -20,7 +20,7 @@ public class PascalTriangle
                 System.out.print(num+ " ");
                 num = num*(i-j)/(j+1);
             }
-            System.out.print("\n");
+            System.out.println();
         }
     }
 }
