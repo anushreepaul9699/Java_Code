@@ -17,6 +17,7 @@ public class TwoDArray {
             {
                 arr[i][j]= sc.nextInt();
             }
+            System.out.println();
         }
         //printing the output
         System.out.println("The array elements are :");
