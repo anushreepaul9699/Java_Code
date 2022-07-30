@@ -28,6 +28,8 @@ public class TwoDArray {
 
                 System.out.print(arr[i][j]+ " ");
             }
+
+            System.out.println();
         }
 
 
