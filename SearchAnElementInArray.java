@@ -1,6 +1,7 @@
 import java.util.*;
 import java.lang.*;
-public class SearchAnElementInArray {
+public class SearchAnElementInArray
+{
     public static void main(String[] args)
     {
         Scanner scanner = new Scanner(System.in);
